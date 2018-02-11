@@ -8,4 +8,6 @@ int main()
 	printf("Tu edad es de: %d anos\n",edad);
 
 	system("PAUSE");
+
+	return 0;
 }
